@@ -25,4 +25,4 @@ https://datastudio.google.com/reporting/a6a213a2-b62e-4cb8-b02e-2b2de2f4fa56
 
 
 ### Datasets
-Source: [Chicago Taxi Trip public dataset from Google BigQuery](https://console.-cloud.google.com/bigquery?p=bigquery-publicdata&d=chicago_taxi_trips&page=dataset) - prepared using Google BigQuery
+Source: [Chicago Taxi Trip public dataset from Google BigQuery](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=chicago_taxi_trips&page=dataset) - prepared using Google BigQuery
