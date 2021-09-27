@@ -18,10 +18,10 @@ This project aims to leverage on the Chicago Taxi Trip public dataset from Googl
 ### Contents
 The key visualizations can be viewed on Google Data Studio: 
 https://datastudio.google.com/reporting/a6a213a2-b62e-4cb8-b02e-2b2de2f4fa56 
-<img src='./assets/visual_01.JPG' width=1000 align=center>
-<img src='./assets/visual_02.JPG' width=1000 align=center>
-<img src='./assets/visual_03.JPG' width=1000 align=center>
-<img src='./assets/visual_04.JPG' width=1000 align=center>
+<img src='./assets/visual_01.jpg' width=1000 align=center>
+<img src='./assets/visual_02.jpg' width=1000 align=center>
+<img src='./assets/visual_03.jpg' width=1000 align=center>
+<img src='./assets/visual_04.jpg' width=1000 align=center>
 
 
 ### Datasets
